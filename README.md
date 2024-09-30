@@ -29,4 +29,4 @@ This repository focuses on the mechanical design and operation of a 4-degree-of-
 Feel free to explore the contents of this repository and use the provided resources for your own projects or research. Additionally, contributions are welcome; if you have suggestions for improvements, corrections, or new features, don't hesitate to open an issue or submit a pull request.
 
 ## Here's you can find the video: 😎
-[![Alt text](https://img.youtube.com/vi/047qnua7GQCu7LLM/0.jpg)]([https://www.youtube.com/watch?si=047qnua7GQCu7LLM](https://youtu.be/5L2OaCzoYdI?si=047qnua7GQCu7LLM))
+[![Miniatura del video](https://img.youtube.com/vi/5L2OaCzoYdI/0.jpg)](https://youtu.be/5L2OaCzoYdI)
